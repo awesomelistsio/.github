@@ -24,20 +24,11 @@ The goal is to create reference layers that remain useful years from now, not ju
 
 The organization is structured around enduring technical and analytical disciplines.
 
-### Software & Infrastructure
-Programming languages, frameworks, web development, systems engineering, DevOps, and performance tooling.
-
-### Artificial Intelligence & Data
-Machine learning ecosystems, LLM tooling, data science, data engineering, business intelligence, and analytics infrastructure.
-
-### Security & Decentralized Systems
-Cybersecurity, cryptographic tools, blockchain systems, digital infrastructure, and open financial protocols.
-
-### STEM & Applied Systems
-Mathematics, science, engineering resources, modeling tools, and research-oriented open platforms.
-
-### Travel & Global Systems
-Digital nomadism, global mobility, and structured travel intelligence resources.
+- **Software & Infrastructure:** Programming languages, frameworks, web development, systems engineering, DevOps, and performance tooling.
+- **Artificial Intelligence & Data:** Machine learning ecosystems, LLM tooling, data science, data engineering, business intelligence, and analytics infrastructure.
+- **Security & Decentralized Systems:** Cybersecurity, cryptographic tools, blockchain systems, digital infrastructure, and open financial protocols.
+- **STEM & Applied Systems:** Mathematics, science, engineering resources, modeling tools, and research-oriented open platforms.
+- **Travel & Global Systems:** Digital nomadism, global mobility, and structured travel intelligence resources.
 
 Each domain is organized intentionally, with consistent formatting and contribution standards.
 
@@ -74,7 +65,7 @@ The **[blog](https://www.awesomelists.io/blog/)** explores methodology, structur
 
 If you find these resources useful and want to support continued maintenance and expansion:
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio)  [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists)  [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ)  [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio)  [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists)  [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ)
 
 ## Connect
 
